@@ -11,5 +11,3 @@ while(days>day):
     temp = temp+temp
     day = day+daycount
     print("total iguana (day %d) is = %d" % (day, temp))
-
-print("count : ",temp)
